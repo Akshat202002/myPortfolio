@@ -1,11 +1,11 @@
 export const companies = [
   {
-    title: 'Nalikes Studio',
+    title: 'Zignex',
     alt: 'NS image',
-    role: 'Senior Software Engineer',
-    skills: ['web3', 'nextjs', 'rails', 'typescript', 'react', 'aws', 'heroku'],
+    role: 'UI Developer',
+    skills: ['angular', 'openlayers', 'rxjs', 'typescript', 'tailwind'],
     period: '2023 - Present',
-    logo: '/assets/images/logos/nalikes-studio.png'
+    logo: '/assets/images/logos/ZIGNEXFooter3.png'
   },
   {
     title: 'Big Wolf Games',
@@ -52,13 +52,13 @@ export const companies = [
 export const institutes = [
   {
     short_title: 'FAST - NUCES',
-    title: 'National University of Computer and Emerging Sciences',
+    title: 'Shri Govindram Seksaria Institute of Technology and Science, Indore, India',
     alt: 'Nuces image',
     role: "Bachelor's Degree in Computer Science",
     skills: ['project management', 'web development', 'data structures'],
-    period: '2013 - 2017',
-    startingYear: '2013',
-    logo: '/assets/images/logos/fast.png',
+    period: '2020 - 2024',
+    startingYear: '2020',
+    logo: '/assets/images/logos/sgsits_logo.png',
     awards: [
       {
         title: 'Speed Programming Battle',

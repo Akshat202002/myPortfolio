@@ -98,7 +98,7 @@ const Achievements = () => {
               Collected 34k+ posts views and 1.5k+ total reactions on{' '}
               <ExternalLink
                 color={linkColor}
-                url="https://dev.to/m_ahmad"
+                url="https://dev.to/akshat202002"
                 text={'Dev.to'}
                 target="_blank"
               />
@@ -108,7 +108,7 @@ const Achievements = () => {
               Framer-motion,{' '}
               <ExternalLink
                 color={linkColor}
-                url="https://github.com/MA-Ahmad/myPortfolio"
+                url="https://github.com/Akshat202002/"
                 text={'source on Github'}
                 target="_blank"
               />
@@ -126,7 +126,7 @@ const Achievements = () => {
               Published or contributed to{' '}
               <ExternalLink
                 color={linkColor}
-                url="https://github.com/MA-Ahmad?tab=repositories"
+                url="https://github.com/Akshat202002/tab=repositories"
                 text={'32 open-source repositories'}
                 target="_blank"
               />
@@ -135,7 +135,7 @@ const Achievements = () => {
               Collected 650+ post views and 15+ total reactions on{' '}
               <ExternalLink
                 color={linkColor}
-                url="https://dev.to/m_ahmad"
+                url="https://dev.to/akshat202002"
                 text={'Dev.to'}
                 target="_blank"
               />
@@ -144,7 +144,7 @@ const Achievements = () => {
               Built my portfolio website with React and ChakraUI,{' '}
               <ExternalLink
                 color={linkColor}
-                url="https://github.com/MA-Ahmad/portfolio2"
+                url="https://github.com/Akshat202002/" // TODO: Add link to repo
                 text={'source on Github'}
                 target="_blank"
               />

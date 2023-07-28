@@ -1,5 +1,6 @@
 <div align="center">
-  <h1><a href="https://mahmad.me" target="_blank">Mahmad.me</a></h1>
+<!-- TODO: Add link -->
+  <h1><a href="" target="_blank">Akshat Samdani</a></h1> 
   My personal portfolio website to show my skills, experience, and articles I published
 </div>
 
@@ -33,9 +34,9 @@
 [TemplatesKart website](https://templateskart.com/projects/my-website)
 
 ## Running Locally
-
+<!-- Add url -->
 ```sh
-git clone https://github.com/MA-Ahmad/myPortfolio
+git clone 
 cd myPortfolio && yarn install
 yarn dev
 ```

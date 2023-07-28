@@ -41,7 +41,7 @@ const Footer = () => {
           fontSize="sm"
           color={useColorModeValue("gray.500", "gray.200")}
         >
-          © {new Date().getFullYear()} Muhammad Ahmad{" "}
+          © {new Date().getFullYear()} Akshat Samdani{" "}
         </Text>
         {/* <Box fontSize="md" textAlign="left">
         Website built with
@@ -58,7 +58,7 @@ const Footer = () => {
             }
           }}
         />
-        in Pakistan{"  "}🇵🇰
+        in India{"  "}🇵🇰
       </Box> */}
         {/* </HStack> */}
         <Box textAlign="center">
