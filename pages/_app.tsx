@@ -1,6 +1,6 @@
 import { useEffect } from 'react';
 import App, { AppProps } from 'next/app';
-import { ChakraProvider, Box } from '@chakra-ui/react';
+import { ChakraProvider, ColorModeProvider, Box } from '@chakra-ui/react';
 import AppLayout from 'components/layouts/appLayout';
 import { PrismGlobal } from 'components/theme/prism';
 import { useRouter } from 'next/router';
@@ -25,6 +25,12 @@ function MyApp({ Component, pageProps }: AppProps) {
 
   return (
     <ChakraProvider theme={theme} resetCSS={true}>
+      <ColorModeProvider
+        options={{
+          useSystemColorMode: false, // Set to true to enable automatic system color mode detection
+          initialColorMode: 'dark',  // Set to 'dark' for the dark theme by default
+        }}
+      ></ColorModeProvider>
       <FontsGlobal />
       <AccentGlobal />
       <PrismGlobal />
